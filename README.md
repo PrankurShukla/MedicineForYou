@@ -22,8 +22,9 @@ Welcome to our **Online Medical Store** application! This application allows use
 ## Installation
 
 ### 1. Clone the repository:
-bash
+```bash
 git clone https://github.com/PrankurShukla/Medicine.git
+```
 
 ### 2. Navigate to the backend directory:
 bash
