@@ -27,33 +27,39 @@ git clone https://github.com/PrankurShukla/Medicine.git
 ```
 
 ### 2. Navigate to the backend directory:
-bash
+```bash
 cd backend
+```
 
 ### 3. Install backend dependencies:
-bash
+```bash
 npm install
+```
 
 
 ### 4. Start the backend server:
-bash
+```bash
 npm run dev
+```
 
 Backend server will run at http://localhost:8000.
 
 ### 5. Navigate to the frontend directory:
-bash
+```bash
 cd frontend
+```
 
 
 ### 6. Install frontend dependencies:
-bash
+```bash
 npm install
+```
 
 
 ### 7. Start the frontend development server:
-bash
+```bash
 npm run dev
+```
 
 Frontend application will run at http://localhost:5173.
 
